@@ -1,0 +1,6 @@
+65 rohith 72.00
+45 somesh 34.00
+54 ramesh 62.05
+23 suresh 34.70
+48 ganesh 42.60
+18 deepak 58.00
